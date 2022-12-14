@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "sYw4L3BLjCMhkNdZHfly10Gol70ohbRhuoSMGKa/Cf/Rz23ZbuTWbWD/g6QjoPiyXc3ISEhVC2rPlEtRdeFRxQ==",
+  "dgSpecHash": "/8sIwxlfax+wn5jPyQ/nyCXn6X10eEguT4CA6CukhibGxfEHsgFGxOeD+1j8gDPYMtoHCQvk9SvHovaVDqtemg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\futbol\\futbol.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\UZMU-FOLDER\\C# tasks\\Futbol_jamoasi_oop\\futbol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.11\\microsoft.netcore.app.host.win-x64.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

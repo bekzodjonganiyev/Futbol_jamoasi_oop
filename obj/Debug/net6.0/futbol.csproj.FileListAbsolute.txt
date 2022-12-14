@@ -1,15 +1,15 @@
-C:\Users\user\Desktop\futbol\bin\Debug\net6.0\futbol.exe
-C:\Users\user\Desktop\futbol\bin\Debug\net6.0\futbol.deps.json
-C:\Users\user\Desktop\futbol\bin\Debug\net6.0\futbol.runtimeconfig.json
-C:\Users\user\Desktop\futbol\bin\Debug\net6.0\futbol.dll
-C:\Users\user\Desktop\futbol\bin\Debug\net6.0\futbol.pdb
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.AssemblyInfo.cs
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.dll
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\refint\futbol.dll
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.pdb
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\futbol.genruntimeconfig.cache
-C:\Users\user\Desktop\futbol\obj\Debug\net6.0\ref\futbol.dll
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.csproj.AssemblyReference.cache
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.GeneratedMSBuildEditorConfig.editorconfig
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.AssemblyInfoInputs.cache
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.AssemblyInfo.cs
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.csproj.CoreCompileInputs.cache
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\bin\Debug\net6.0\futbol.exe
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\bin\Debug\net6.0\futbol.deps.json
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\bin\Debug\net6.0\futbol.runtimeconfig.json
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\bin\Debug\net6.0\futbol.dll
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\bin\Debug\net6.0\futbol.pdb
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.dll
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\refint\futbol.dll
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.pdb
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\futbol.genruntimeconfig.cache
+D:\UZMU-FOLDER\C# tasks\Futbol_jamoasi_oop\obj\Debug\net6.0\ref\futbol.dll
